@@ -1,12 +1,12 @@
 
-<h1 align="center"> Secktor Plugins </h1>
+<h1 align="center">STAR-MD Plugins</h1>
 <div align="center">
 <br /> 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=SamPandey001&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=xcelsama&label=Visitors%20count&color=10d9c3&style=plastic" alt="lyfe-plugin-list" /> </p>
 
 
 ᴄʟɪᴄᴋ ᴡᴀ ʟᴏɢᴏ ᴛᴏ ᴊᴏɪɴ sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ 👇 
-<br> [![join](https://raw.githubusercontent.com/SecktorBot/Brandimages/main/secktor.png)](https://chat.whatsapp.com/Bl2F9UTVU4CBfZU6eVnrbCl)
+<br> [![join](https://raw.githubusercontent.com/SecktorBot/Brandimages/main/secktor.png)](https://chat.whatsapp.com/Lg0lY4M1k8oDMYzylg86xs)
   <div align="center"  
 <h4 align="center">Plugins</h1>
 
